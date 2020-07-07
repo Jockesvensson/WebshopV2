@@ -1,5 +1,8 @@
 # webshopv2
 
+En enklare webshop gjort i Vue.js.
+https://webshopv2-df58e.web.app/
+
 ## Project setup
 ```
 npm install
